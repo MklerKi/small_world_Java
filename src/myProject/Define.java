@@ -1,4 +1,5 @@
 package myProject;
+//define
 
 public class Define implements java.io.Serializable {
     public static final int size = 20;
